@@ -1,0 +1,48 @@
+@import url(//db.onlinewebfonts.com/c/1272283b8b654a26e7922c5546dd170a?family=Baveuse);
+table,td,th {border-collapse:collapse;border:1px solid ;}
+td,th{width:320px;align-items:center;text-align:center;}
+
+@font-face {font-family: "Baveuse";
+    src: url("//db.onlinewebfonts.com/t/1272283b8b654a26e7922c5546dd170a.eot");
+    src: url("//db.onlinewebfonts.com/t/1272283b8b654a26e7922c5546dd170a.eot?#iefix") format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/1272283b8b654a26e7922c5546dd170a.woff2") format("woff2"),
+    url("//db.onlinewebfonts.com/t/1272283b8b654a26e7922c5546dd170a.woff") format("woff"),
+    url("//db.onlinewebfonts.com/t/1272283b8b654a26e7922c5546dd170a.ttf") format("truetype"),
+    url("//db.onlinewebfonts.com/t/1272283b8b654a26e7922c5546dd170a.svg#Baveuse") format("svg");
+}
+*{font-family:Baveuse,arial,sans-serif;font-size:24px;}
+#wrap {min-height:900px;margin-top:50px;margin-left:auto;margin-right:auto;width:980px; }
+table{margin-bottom:50px;font-size:20px;}
+#wrap label{
+   display:inline-block;
+   width:200px; 
+  
+
+}
+
+.bild{margin:0px 0px;}
+input{width:300px;height:40px;font-size:20px;}
+select{width:300px;height:40px;font-size:20px;}
+.output {font-size:20px;}
+.out{font-size:20px;}
+.out2{font-size:20px;text-align:center;}
+.fehler{color:red;font-size:20px;}
+.fehler2{color:red;}
+nav{margin-left:20px;width:420px;text-align:left;align-items:center;}
+header{font-size:30px;width:1200px;height:300px;text-align:center;}
+.ttt {width:1200px;
+	background-image: url('../pics/background.png');
+	background-repeat: repeat-x;
+	min-height:900px;
+	background-size:cover;
+	}
+body {
+	
+	background-color:#ccc;
+	width:1200px;
+	
+	
+	margin: 25px auto;
+	
+}
+main{min-height:900px;width:1200px;display: flex; flex-direction: row; }
